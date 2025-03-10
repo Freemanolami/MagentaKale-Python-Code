@@ -1,0 +1,4 @@
+[ERROR] Invalid quantity for Keyboard: -1
+[ERROR] Price for Monitor is not a valid number: 150
+[ERROR] Missing product name.
+[ERROR] Price for Desk is not a valid number: None
